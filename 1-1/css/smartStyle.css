@@ -1,0 +1,12 @@
+@media screen and (max-width: 479px) {
+  .main-left {
+    float: none;
+    height: 100px;
+  }
+  .main-right-wrap1-right {
+    height: 100px;
+  }
+  .smart {
+    width: 150px;
+  }
+}
