@@ -41,7 +41,7 @@
   
   <p>③の答え</p>
   <!--作成した関数を呼び出して結果を表示-->
-  <?php echo result($Answer2, $corAns2); ?>
+  <?php echo result($Answer3, $corAns3); ?>
   
 </body>
 </html>

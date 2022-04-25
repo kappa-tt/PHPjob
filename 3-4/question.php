@@ -20,7 +20,7 @@
   //② ①で作成した、配列から正解の選択肢の変数を作成してください
 
   $answer1 = 80;
-  $answer2 = "PHP";
+  $answer2 = "HTML";
   $answer3 = "select";
   
   ?>
