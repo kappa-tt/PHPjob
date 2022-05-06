@@ -1,0 +1,93 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  width: 400px;
+  margin: 0 auto;
+}
+
+header {
+  margin: 20px 0px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+.input {
+  padding: 5px;
+  display: inline-block;
+  width: 100%;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0px 60px;
+  background-color: blue;
+  color: white;
+  line-height: 38px;
+  border-radius: 5px;
+  border: none;
+  opacity: 0.7;
+  text-decoration: none;
+}
+
+.btn:hover {
+  opacity: 1.0;
+  cursor: pointer;
+}
+
+.title {
+  font-weight: normal;
+  font-size: 32px;
+}
+
+.signUp-btn {
+  margin-left: 30px;
+  padding: 5px 20px;
+  background-color: rgb(37, 181, 194);
+  color: white;
+  line-height: 38px;
+}
+
+.register-btn {
+  padding: 0px 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.logout-btn {
+  padding: 0px 20px;
+  background-color: gray;
+}
+
+.delete-btn {
+  padding: 0px 10px;
+  background-color: red;
+  margin: 5px 0px;
+}
+
+span{
+  vertical-align: middle;
+}
+
+table {
+  width: 100%;
+  border-collapse:collapse;
+}
+
+th {
+  background-color: rgb(220,220,220);
+  min-width: 100px;
+}
+
+td {
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid rgb(180, 180, 180);
+  padding: 5px 0px;
+}
